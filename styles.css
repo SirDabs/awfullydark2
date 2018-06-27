@@ -9,7 +9,7 @@
   --thread-bg-sticky: #b5e853;
   --thread-bg-sticky2: #b5e853;
   --thread-separator: #202020;
-  --text-color: #dadada;
+  --text-color: #ffffff;
   --text-dim-color: #b3b3b3;
   --gold: rgba(252, 190, 32, 1);
   --darker: #1b1b1b;
@@ -166,7 +166,7 @@ a.dropdown-item:hover,
 }
 
 .alert-header {
-  color: var(--thread-bg-sticky)
+  color: var(--thread-bg-sticky);
 }
 
 .alert-component .dropdown-item .alert-dropdown .alert-item.alert-seen>a,
