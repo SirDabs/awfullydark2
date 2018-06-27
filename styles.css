@@ -165,6 +165,10 @@ a.dropdown-item:hover,
   color: var(--text-color);
 }
 
+.alert-header {
+  color: var(--thread-bg-sticky)
+}
+
 .alert-component .dropdown-item .alert-dropdown .alert-item.alert-seen>a,
 .alert-component .dropdown .dropdown-menu .has-link a .alert-dropdown .alert-item.alert-seen>a,
 .dropdown .dropdown-menu .has-link .alert-component a .alert-dropdown .alert-item.alert-seen>a,
