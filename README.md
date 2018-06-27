@@ -6,7 +6,7 @@ Dark theme for new Facepunch forums found at https://forum.facepunch.com/f/
 Add the theme to your user CSS on the preferences page:
 
 ```
-@import url('https://pgsil.github.io/awfullydark2/styles.css');
+@import url('https://sirdabs.github.io/awfullydark2hackeredition/styles.css');
 ```
 
 ## Customizing
