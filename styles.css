@@ -166,7 +166,7 @@ a.dropdown-item:hover,
 }
 
 .alert-component .dropdown-item .alert-header {
-  color: var(--thread-bg-sticky);
+  background-color: var(--thread-bg-sticky);
 }
 
 .alert-component .dropdown-item .alert-dropdown .alert-item.alert-seen>a,
